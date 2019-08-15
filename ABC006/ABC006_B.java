@@ -6,7 +6,6 @@ class ABC006_B {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
-        int n = 8;
 
         int[] array = new int[n];
         array[0] = 0;
